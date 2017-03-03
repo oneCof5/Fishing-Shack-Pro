@@ -26,6 +26,7 @@ L["enable the addon"] = "enable the addon"
 L["replace poles with active bait applied"] = "replace poles with active bait applied"
 
 -- define a fishing pole table sorted by an arbitrary 'best' order
+-- note ARBITRARY
 local fishPoles = {
 -- ID        Name                               +Skill  +Other            Faction?
 "133755", -- Underlight Angler                   60      Teleport to node
