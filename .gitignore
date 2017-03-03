@@ -1,0 +1,8 @@
+#no png
+*.png
+
+# no alpha
+alpha/
+
+# no GIT_README for instructions
+GIT_README.txt
